@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toni-react/static/css/main.fb0aa769.chunk.css",
+    "main.js": "/toni-react/static/js/main.20c3af65.chunk.js",
+    "main.js.map": "/toni-react/static/js/main.20c3af65.chunk.js.map",
+    "runtime-main.js": "/toni-react/static/js/runtime-main.2acd47e7.js",
+    "runtime-main.js.map": "/toni-react/static/js/runtime-main.2acd47e7.js.map",
+    "static/js/2.ba3fdadd.chunk.js": "/toni-react/static/js/2.ba3fdadd.chunk.js",
+    "static/js/2.ba3fdadd.chunk.js.map": "/toni-react/static/js/2.ba3fdadd.chunk.js.map",
+    "static/js/3.d0213571.chunk.js": "/toni-react/static/js/3.d0213571.chunk.js",
+    "static/js/3.d0213571.chunk.js.map": "/toni-react/static/js/3.d0213571.chunk.js.map",
+    "index.html": "/toni-react/index.html",
+    "static/css/main.fb0aa769.chunk.css.map": "/toni-react/static/css/main.fb0aa769.chunk.css.map",
+    "static/js/2.ba3fdadd.chunk.js.LICENSE.txt": "/toni-react/static/js/2.ba3fdadd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2acd47e7.js",
+    "static/js/2.ba3fdadd.chunk.js",
+    "static/css/main.fb0aa769.chunk.css",
+    "static/js/main.20c3af65.chunk.js"
+  ]
+}
